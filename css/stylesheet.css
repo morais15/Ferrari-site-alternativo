@@ -1,0 +1,146 @@
+#navbar a {
+    display: block;
+    color: white;
+    padding: 15px;
+    font-size: 17px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+hr{
+    background-color: white;
+}
+
+.divtext{
+    height:100%;
+    background-color: ghostwhite;
+    font-size:20px;
+    color: black;
+    padding: 25px;
+    padding-top: 75px;
+    text-align: justify;
+}
+
+.divcarousel{
+    height:100%;
+    background-color: ghostwhite;
+    font-size:15px;
+    color: black;
+    text-align: justify;
+}
+
+.psubtitle{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 0px;
+}
+
+.fixed-top.scrolled {
+    background-color: black !important;
+    transition: background-color 500ms linear;
+}
+
+.title{
+    font-size: 25px;
+}
+
+.divimgdefault{
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+}
+
+.divimgh{
+    width: 250px;
+}
+
+.divimgv{
+    width: 400px;
+}
+
+.imgmodalbutton{
+    width: 100%;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.imgmodal{
+    width: 100%;
+}
+
+.imgcontato{
+    width: 150px;
+}
+
+.spacedefault{
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.75;
+}
+
+.space1{
+    height: 700px;
+    background-image:url("../img/back1.jpg");
+}
+
+.space2{
+    height: 300px;
+    background-image:url("../img/back2.jpg");
+}
+
+.space3{
+    height: 300px;
+    background-image:url("../img/back3.jpg");
+}
+
+.space4{
+    height: 300px;
+    background-image:url("../img/back4.jpg");
+}
+
+.divfooter{
+    background-color: #181818;
+    height: 100%;
+    color: white;
+}
+
+.footericon{
+    height: 40px;
+}
+
+.carousel-inner{
+    margin: auto;
+    border-radius: 15px;
+}
+.carousel-inner img{
+    height: 100%;
+    width: 100%;
+}
+
+.divlegf1{
+    background-color: black;
+    width: 150px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.modalcontato{
+    width: 1000px !important;
+}
+
+.modal-content{
+    width: 800px;
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.modal-dialog{
+    max-width: 100% !important;
+}
